@@ -3,8 +3,8 @@ DD1354 project blog.
 
 We set up a comparison scene in Unity containing two glass panels:
 
-Glass_OpenFracture – using the default OpenFracture implementation.
-Glass_Voronoi – our experimental version where we generate Voronoi cells.
+Glass_OpenFracture: using the default OpenFracture implementation.                                                             
+Glass_Voronoi: our experimental version where we generate Voronoi cells.
 
 We successfully integrated a Voronoi diagram generator using the GK library together with Oskar Sigvardsson’s Delaunay implementation. The Voronoi cells are currently generated dynamically and rendered on top of the glass surface using a LineRenderer.
 
