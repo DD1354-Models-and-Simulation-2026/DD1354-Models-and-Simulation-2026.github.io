@@ -88,7 +88,7 @@ We also implemented a dynamic fracturing behavior where the fracture radius and 
 
 <img width="513" height="799" alt="image" src="https://github.com/user-attachments/assets/b7c63628-8c5d-4ade-bebe-beb97e933df9" />
 
-<img width="590" height="846" alt="image" src="https://github.com/user-attachments/assets/826bc960-04f2-4977-9ed2-0778ed9fc2c8" />
+<img width="524" height="790" alt="image" src="https://github.com/user-attachments/assets/664de09e-8b95-4160-a9e5-8366dc60d6e2" />
 
 
 
