@@ -34,7 +34,8 @@ Next, we implemented an impact-based Voronoi visualization for the glass in our 
 
 Previously, Voronoi cells were generated randomly across the entire glass surface. Now the Voronoi diagram is calculated dynamically based on the collision point when a ball hits the glass. We retrieve the impact point from “OnCollisionEnter” and generate more seeds near the impact point to simulate a more realistic crack formation.
 
-The result is that the Voronoi cells are concentrated around the collision area, which visually resembles how cracks in glass spread from a point of impact. This step is an very important part of our extended implementation because it creates a more physically plausible crack structure compared to a completely random fragmentation. Currently, only the Voronoi structure is visualized with LineRenderer. The actual mesh fracturing based on these cells will be implemented in the next steps.<img width="523" height="345" alt="image" src="https://github.com/user-attachments/assets/115a5ca8-0f68-4185-b631-1b06daa06bf7" />
+The result is that the Voronoi cells are concentrated around the collision area, which visually resembles how cracks in glass spread from a point of impact. This step is an very important part of our extended implementation because it creates a more physically plausible crack structure compared to a completely random fragmentation. Currently, only the Voronoi structure is visualized with LineRenderer. The actual mesh fracturing based on these cells will be implemented in the next steps.
+<img width="523" height="345" alt="image" src="https://github.com/user-attachments/assets/115a5ca8-0f68-4185-b631-1b06daa06bf7" />
 
 
 
