@@ -68,9 +68,14 @@ Small shards near the impact point remained attached to the glass even though cr
 <img width="665" height="438" alt="image" src="https://github.com/user-attachments/assets/b766bab9-364e-4b31-a1d9-1e42a0c58c45" />
 
 
-Below shows the part of the glass panel that did not fracture was rebuilt as its own object.
+The figure below shows the part of the glass panel that did not fracture was rebuilt as its own object.
 
 <img width="658" height="463" alt="image" src="https://github.com/user-attachments/assets/ba620986-aa4b-4644-8a85-fb5d86bbb59e" />
+
+
+Detached shards were eventually created after fracturing and the glass panel now had thickness after the fracture. However, the entire panel was still cracked and some loose shards around the impact point remained attached to the glass.
+
+<img width="631" height="447" alt="image" src="https://github.com/user-attachments/assets/c9731c0a-3e2c-4200-a1a3-1a72da7fc433" />
 
 
 
