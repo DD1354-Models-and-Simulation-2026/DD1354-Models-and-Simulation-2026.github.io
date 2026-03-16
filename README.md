@@ -28,7 +28,8 @@ This establishes the foundation for replacing the default OpenFracture slicing l
 
  <img width="600" height="348" alt="image" src="https://github.com/user-attachments/assets/2f17ba2a-5333-43d7-b187-90a9f98aee19" />
 
-In this step, we implemented an impact-based Voronoi visualization for the glass in our comparison scene.
+
+In this next step, we implemented an impact-based Voronoi visualization for the glass in our comparison scene.
 
 Previously, Voronoi cells were generated randomly across the entire glass surface. Now the Voronoi diagram is calculated dynamically based on the collision point when a ball hits the glass. We retrieve the impact point from “OnCollisionEnter” and generate more seeds near the impact point to simulate a more realistic crack formation.
 
