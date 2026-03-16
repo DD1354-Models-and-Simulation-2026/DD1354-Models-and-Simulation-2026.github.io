@@ -36,9 +36,12 @@ Previously, Voronoi cells were generated randomly across the entire glass surfac
 
 The result is that the Voronoi cells are concentrated around the collision area, which visually resembles how cracks in glass spread from a point of impact. This step is an very important part of our extended implementation because it creates a more physically plausible crack structure compared to a completely random fragmentation. Currently, only the Voronoi structure is visualized with LineRenderer. The actual mesh fracturing based on these cells will be implemented in the next steps.
 <img width="646" height="426" alt="image" src="https://github.com/user-attachments/assets/49b82696-3f8c-4c0e-98c6-94164f6c4e88" />
+
+
 We experimented with integrating the Voronoi cells with the slicing system used in OpenFracture. The goal was to use the generated Voronoi cells to directly drive the mesh fracturing. However, we encountered some issues. Some Voronoi cells disappeared during the slicing process, and the number of generated cells did not always match the number of seeds specified in the Inspector. Resolving these issues would require significant refactoring of the code.
 
 Because of these difficulties, we temporarily decided to focus on visualizing the Voronoi structure first before continuing with the full mesh fracturing implementation.
+
 
 
 At the end of week 9, we decided to restructure the project to more clearly understand what needed to be done and how we should proceed.
@@ -46,7 +49,8 @@ At the end of week 9, we decided to restructure the project to more clearly unde
 After our experiments with integrating Voronoi with the OpenFractures slicing system, several uncertainties arose regarding the implementation. Therefore, we created a new priority list to structure the work and focus on the most critical parts of the project.
 
 The images below show some early tests of fragmentation during this phase.
-<img width="817" height="596" alt="image" src="https://github.com/user-attachments/assets/473fd94c-425a-4897-b125-3f55305e598f" />
+<img width="611" height="787" alt="image" src="https://github.com/user-attachments/assets/41806f97-693b-4d58-a793-16c556aa9b17" />
+
 
 
 
