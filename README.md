@@ -78,6 +78,20 @@ Detached shards were eventually created after fracturing and the glass panel now
 <img width="712" height="548" alt="image" src="https://github.com/user-attachments/assets/b17f3d9b-9d35-437e-a813-57a1016018e5" />
 
 
+Finally, the local fracturing began to behave as intended. The glass no longer fractured far away from the impact point and loose glass shards no longer remained attached. From here, we mainly needed to adjust the placement of Voronoi seeds to improve the appearance of the fracturing.
+
+<img width="517" height="545" alt="image" src="https://github.com/user-attachments/assets/5b5b297b-66c8-4ff7-b1cf-6734b2d3ff76" />
+
+
+About a week before the deadline we realized that we needed a tool to visualize how the placement of seeds behaved. This made the implementation of local fracturing easier.
+
+<img width="680" height="476" alt="image" src="https://github.com/user-attachments/assets/de1564a2-497f-42d7-83fc-5c4a342a0a9e" />
+
+
+With the Voronoi diagram we could visualize how the seeds generate the fracture pattern.
+
+
+<img width="634" height="453" alt="image" src="https://github.com/user-attachments/assets/3a317cd6-3424-4bab-8022-c5bb8ff9b703" />
 
 
 
