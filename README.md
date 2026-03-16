@@ -75,7 +75,8 @@ The figure below shows the part of the glass panel that did not fracture was reb
 
 Detached shards were eventually created after fracturing and the glass panel now had thickness after the fracture. However, the entire panel was still cracked and some loose shards around the impact point remained attached to the glass.
 
-<img width="631" height="447" alt="image" src="https://github.com/user-attachments/assets/c9731c0a-3e2c-4200-a1a3-1a72da7fc433" />
+<img width="817" height="580" alt="image" src="https://github.com/user-attachments/assets/24046b28-af4a-4c69-8e85-340c3eb8e776" />
+
 
 
 
