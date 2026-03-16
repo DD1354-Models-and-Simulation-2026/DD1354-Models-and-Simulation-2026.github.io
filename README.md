@@ -83,6 +83,12 @@ Finally, the local fracturing began to behave as intended. The glass no longer f
 <img width="517" height="545" alt="image" src="https://github.com/user-attachments/assets/5b5b297b-66c8-4ff7-b1cf-6734b2d3ff76" />
 
 
+We also implemented a dynamic fracturing behavior where the fracture radius and the number of Voronoi seeds depend on the impact force. Our goal was to make the fracture more physically plausible compared to the default behavior where the fracture pattern does not depend on how strong the impact is. To do this, we modified the "BreakableSurface" script in Unity. The collision impulse from the impact was used as the impact force, and this value was then normalized and mapped to a dynamic fracture radius and seed count. As a result, weak impacts produce a small fracture area with fewer fragments, and the stronger impacts generate a larger fracture radius and more Voronoi seeds, which creates more fragments near the impact point. This behavior makes the fracture pattern more realistic and closer to how brittle materials such as glass break in real life.
+
+
+<img width="513" height="799" alt="image" src="https://github.com/user-attachments/assets/b7c63628-8c5d-4ade-bebe-beb97e933df9" />
+
+
 About a week before the deadline we realized that we needed a tool to visualize how the placement of seeds behaved. This made the implementation of local fracturing easier.
 
 <img width="680" height="476" alt="image" src="https://github.com/user-attachments/assets/de1564a2-497f-42d7-83fc-5c4a342a0a9e" />
