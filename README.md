@@ -64,7 +64,9 @@ Not only were new “glass slices” created, but the original ones did not brea
 
 Local fracturing was partially working, but several problems remained that needed to be solved for the simulation to behave as intended.
 Small shards near the impact point remained attached to the glass even though cracks visually surrounded them. All cracks appeared across the entire glass panel regardless of the distance from the impact point or the force of the projectile. Interior material was also missing both where pieces detached and along the outer edge of the glass panel, making the glass appear completely two-dimensional. We wanted the glass panel to have a small thickness. In addition, new shards were not always created as detached glass pieces during fracturing.
-<img width="522" height="347" alt="image" src="https://github.com/user-attachments/assets/d7ffa244-ba6c-47b6-97ea-192a02c2b7ae" />
+
+<img width="665" height="438" alt="image" src="https://github.com/user-attachments/assets/b766bab9-364e-4b31-a1d9-1e42a0c58c45" />
+
 
 
 
