@@ -39,7 +39,7 @@ The result is that the Voronoi cells are concentrated around the collision area,
 
 
 
-We experimented with integrating the Voronoi cells with the slicing system used in OpenFracture. The goal was to use the generated Voronoi cells to directly drive the mesh fracturing. However, we encountered some issues. Some Voronoi cells disappeared during the slicing process, and the number of generated cells did not always match the number of seeds specified in the Inspector. Resolving these issues would require significant refactoring of the code.
+We further experimented with integrating the Voronoi cells with the slicing system used in OpenFracture. The goal was to use the generated Voronoi cells to directly drive the mesh fracturing. However, we encountered some issues. Some Voronoi cells disappeared during the slicing process, and the number of generated cells did not always match the number of seeds specified in the Inspector. Resolving these issues would require significant refactoring of the code.
 
 Because of these difficulties, we temporarily decided to focus on visualizing the Voronoi structure first before continuing with the full mesh fracturing implementation.
 
@@ -52,6 +52,8 @@ After our experiments with integrating Voronoi with the OpenFractures slicing sy
 The images below show some early tests of fragmentation during this phase.
 <img width="611" height="787" alt="image" src="https://github.com/user-attachments/assets/41806f97-693b-4d58-a793-16c556aa9b17" />
 
+
+# Week 10
 
 
 
