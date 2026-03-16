@@ -88,7 +88,8 @@ We also implemented a dynamic fracturing behavior where the fracture radius and 
 
 <img width="513" height="799" alt="image" src="https://github.com/user-attachments/assets/b7c63628-8c5d-4ade-bebe-beb97e933df9" />
 
-<img width="590" height="457" alt="image" src="https://github.com/user-attachments/assets/b43b59c2-9a4c-4aa8-b816-0c42c7e674be" />
+<img width="590" height="846" alt="image" src="https://github.com/user-attachments/assets/826bc960-04f2-4977-9ed2-0778ed9fc2c8" />
+
 
 
 About a week before the deadline we realized that we needed a tool to visualize how the placement of seeds behaved. This made the implementation of local fracturing easier.
