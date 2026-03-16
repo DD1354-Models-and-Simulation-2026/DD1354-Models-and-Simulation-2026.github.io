@@ -29,12 +29,14 @@ This establishes the foundation for replacing the default OpenFracture slicing l
  <img width="600" height="348" alt="image" src="https://github.com/user-attachments/assets/2f17ba2a-5333-43d7-b187-90a9f98aee19" />
 
 
-In this next step, we implemented an impact-based Voronoi visualization for the glass in our comparison scene.
+
+Next, we implemented an impact-based Voronoi visualization for the glass in our comparison scene.
 
 Previously, Voronoi cells were generated randomly across the entire glass surface. Now the Voronoi diagram is calculated dynamically based on the collision point when a ball hits the glass. We retrieve the impact point from “OnCollisionEnter” and generate more seeds near the impact point to simulate a more realistic crack formation.
 
-The result is that the Voronoi cells are concentrated around the collision area, which visually resembles how cracks in glass spread from a point of impact. This step is an very important part of our extended implementation because it creates a more physically plausible crack structure compared to a completely random fragmentation. Currently, only the Voronoi structure is visualized with LineRenderer. The actual mesh fracturing based on these cells will be implemented in the next steps.
-<img width="1099" height="721" alt="image" src="https://github.com/user-attachments/assets/87b2b73b-c9a2-4ac7-90f3-c4ac3ef626dc" /> <img width="892" height="764" alt="image" src="https://github.com/user-attachments/assets/5ab88ebf-3256-425f-adef-4fe90807f290" />
+The result is that the Voronoi cells are concentrated around the collision area, which visually resembles how cracks in glass spread from a point of impact. This step is an very important part of our extended implementation because it creates a more physically plausible crack structure compared to a completely random fragmentation. Currently, only the Voronoi structure is visualized with LineRenderer. The actual mesh fracturing based on these cells will be implemented in the next steps.<img width="523" height="345" alt="image" src="https://github.com/user-attachments/assets/115a5ca8-0f68-4185-b631-1b06daa06bf7" />
+
+
 
 
 
