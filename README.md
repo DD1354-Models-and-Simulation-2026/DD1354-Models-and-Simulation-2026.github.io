@@ -56,7 +56,9 @@ The images below show some early tests of fragmentation during this phase.
 # Week 10
 
 
-
+Our priority was to implement local fracturing and handle cracks in the glass that are not part of detached shards. The process of implementing local fracturing initially behaved incorrectly.
+<img width="596" height="385" alt="image" src="https://github.com/user-attachments/assets/f1a22e90-9e48-424f-84fb-ac0f8a485a6d" />
+Not only were new “glass slices” created, but the original ones did not break either, which resulted in a stack of overlapping glass slices.
 
 
 ## Project Proposal
