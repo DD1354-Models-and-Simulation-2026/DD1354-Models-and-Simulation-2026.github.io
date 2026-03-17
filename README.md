@@ -99,7 +99,7 @@ About a week before the deadline we realized that we needed a tool to visualize 
 <img width="680" height="476" alt="image" src="https://github.com/user-attachments/assets/de1564a2-497f-42d7-83fc-5c4a342a0a9e" />
 
 
-With the Voronoi diagram we could visualize how the seeds generate the fracture pattern.
+With the Voronoi diagram we could visualize how the seeds generate the fracture pattern, as shown below.
 
 
 <img width="634" height="453" alt="image" src="https://github.com/user-attachments/assets/3a317cd6-3424-4bab-8022-c5bb8ff9b703" />
