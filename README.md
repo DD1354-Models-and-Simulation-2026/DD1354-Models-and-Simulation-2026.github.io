@@ -1,6 +1,24 @@
 # DD1354-Models-and-Simulation-2026.github.io
 DD1354 project blog.
 
+
+## Final Result
+
+Below are some examples of our current fracture simulation results.
+
+Here, we focus on reproducing fracture behavior similar to tempered glass using Voronoi-based methods and modified seeding strategies.
+
+The results illustrate how different configurations, such as seed count and crack style,  affect the final fracture pattern.
+
+These examples show the differences between tempered and non-tempered fracture behavior.
+
+<img width="613" height="475" alt="image" src="https://github.com/user-attachments/assets/a93549ee-f384-4709-a5b0-2c72094c0801" />
+
+<img width="610" height="494" alt="image" src="https://github.com/user-attachments/assets/40692e45-32e0-46f7-801f-3d965ecd6d0b" />
+
+<img width="612" height="497" alt="image" src="https://github.com/user-attachments/assets/851907ba-a09c-4b6d-ab4b-e9ef49937da5" />
+
+
 # Week 8 and before
 
 We considered multiple ways to set up the project. At first, we looked at physically based algorithms that simulate a crack going through an object, we set up simple simulations of these to get an idea of the feasibility of implementing such algorithms. We concluded after some testing that a physically based simulation would be too complicated considering the limited scope of the class.  
