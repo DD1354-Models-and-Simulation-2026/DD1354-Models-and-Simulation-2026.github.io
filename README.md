@@ -15,13 +15,17 @@ These examples show the differences between tempered and non-tempered fracture b
 <img width="613" height="475" alt="image" src="https://github.com/user-attachments/assets/a93549ee-f384-4709-a5b0-2c72094c0801" />
 
 
+
 <img width="610" height="494" alt="image" src="https://github.com/user-attachments/assets/40692e45-32e0-46f7-801f-3d965ecd6d0b" />
+
 
 
 <img width="624" height="493" alt="image" src="https://github.com/user-attachments/assets/4ab62901-c7c1-4250-8ad9-397baf64a044" />
 
 
+
 <img width="612" height="497" alt="image" src="https://github.com/user-attachments/assets/851907ba-a09c-4b6d-ab4b-e9ef49937da5" />
+
 
 
 
