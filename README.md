@@ -88,9 +88,13 @@ From top to bottom: Initial projectile speed was tested 40, 200 and 800.
 Stronger impacts result in a larger fracture radius and more fragments.
 
 
-<img width="513" height="799" alt="image" src="https://github.com/user-attachments/assets/b7c63628-8c5d-4ade-bebe-beb97e933df9" />
+<img width="482" height="406" alt="image" src="https://github.com/user-attachments/assets/ff7c7cdf-58be-4a5e-9386-b5e1364cc525" />
 
-<img width="524" height="790" alt="image" src="https://github.com/user-attachments/assets/664de09e-8b95-4160-a9e5-8366dc60d6e2" />
+<img width="482" height="441" alt="image" src="https://github.com/user-attachments/assets/da76830d-0227-40cc-9116-87a31626103c" />
+
+<img width="505" height="469" alt="image" src="https://github.com/user-attachments/assets/06a77437-d0fd-4b3d-9d35-6dd6f28b49dd" />
+
+
 
 
 
