@@ -147,6 +147,11 @@ We continued working with the dynamic fracturing system introduced in the previo
 
 <img width="510" height="666" alt="image" src="https://github.com/user-attachments/assets/9985f37a-a729-417f-a36d-7e097c3e299f" />
 
+We were influenced by these ideas when adjusting our seeding strategy in our implementation.
+
+We tested these ideas and experimented further by distributing seeds more densely near the impact point to better mimic the spider-web fracture behavior.
+
+This helped improve the visual realism of the fractures compared to previous results.
 
 
 
