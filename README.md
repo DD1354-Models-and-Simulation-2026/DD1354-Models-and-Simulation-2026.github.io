@@ -113,10 +113,15 @@ With the Voronoi diagram we could visualize how the seeds generate the fracture 
 # Week 11
 
 
+During this week, we explored how to generate more realistic fracture patterns that resemble the spider-web effect commonly seen in broken glass.
 
+We attempted to achieve this effect by adjusting the Voronoi seeding. However, we realized that creating a true spider-web pattern would require more fundamental changes to the Voronoi method.
 
+Instead, we shifted our focus to studying existing research on random seeding methods that better replicate realistic fracture patterns in tempered glass. Based on this, we concluded that a modified SP Strauss process would be a more suitable approach for our implementation.
 
+We continued working with the dynamic fracturing system introduced in the previous week.
 
+<img width="510" height="666" alt="image" src="https://github.com/user-attachments/assets/9985f37a-a729-417f-a36d-7e097c3e299f" />
 
 
 
