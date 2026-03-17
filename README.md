@@ -106,6 +106,11 @@ With the Voronoi diagram we could visualize how the seeds generate the fracture 
 
 
 
+# Week 11
+
+
+
+
 
 
 
