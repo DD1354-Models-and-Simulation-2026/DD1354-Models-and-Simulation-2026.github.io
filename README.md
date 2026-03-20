@@ -13,11 +13,7 @@ The results illustrate how different configurations, such as seed count and crac
 These examples show the differences between tempered and non-tempered fracture behavior.
 
 
-
-
-<video src="https://github.com/user-attachments/assets/b445b50a-007d-43fc-8d54-6f1cd2bdd6b2" controls width="700"></video>
-
-
+<video src="https://github.com/user-attachments/assets/7dac1aaf-4558-446d-aa59-d3ad7111372d" controls width="700"></video>
 
 
 
