@@ -4,13 +4,11 @@ DD1354 project blog.
 
 ## Final Result
 
-Below are some examples of our current fracture simulation results.
+Below is a video showing our fracture simulation results.
 
-Here, we focus on reproducing fracture behavior similar to tempered glass using Voronoi-based methods and modified seeding strategies.
+The video presents three stages: first, a Voronoi seeding visualization; second, our impact-based fracturing system; and third, a comparison with the default OpenFracture method.
 
-The results illustrate how different configurations, such as seed count and crack style,  affect the final fracture pattern.
-
-These examples show the differences between tempered and non-tempered fracture behavior.
+These examples highlight how our approach produces more realistic and controlled fracture patterns.
 
 
 <video src="https://github.com/user-attachments/assets/7dac1aaf-4558-446d-aa59-d3ad7111372d" controls width="700"></video>
