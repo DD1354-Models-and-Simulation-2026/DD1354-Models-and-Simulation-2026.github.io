@@ -14,7 +14,7 @@ These examples show the differences between tempered and non-tempered fracture b
 
 
 
-https://github.com/user-attachments/assets/9ece252d-f531-4788-82e4-2b9d2a14cde7
+
 
 
 
